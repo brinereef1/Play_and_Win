@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 53dc6b604bfd8b9489a167b2dd89cdfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 270867796513690207
+    second: bowl_0
+  - first:
+      213: 2905102754601363371
+    second: bowl_1
+  - first:
+      213: -8787030263231701926
+    second: bowl_2
+  - first:
+      213: -5782623809105709515
+    second: bowl_3
+  - first:
+      213: -998262511705762774
+    second: bowl_4
+  - first:
+      213: -5646429420439356451
+    second: bowl_5
+  - first:
+      213: -2254641877237471140
+    second: bowl_6
+  - first:
+      213: 2034158325881466116
+    second: bowl_7
+  - first:
+      213: 4605324949730884492
+    second: bowl_8
+  - first:
+      213: 1893021796030780278
+    second: bowl_9
+  - first:
+      213: -5407298146031030839
+    second: bowl_10
+  - first:
+      213: -7226401820646645752
+    second: bowl_11
+  - first:
+      213: -8921504918933776286
+    second: bowl_12
+  - first:
+      213: -4618908111432150053
+    second: bowl_13
+  - first:
+      213: 3392489999401446565
+    second: bowl_14
+  - first:
+      213: 2962269634244692942
+    second: bowl_15
+  - first:
+      213: 9030093380859074799
+    second: bowl_16
+  - first:
+      213: -5576875344969635885
+    second: bowl_17
+  - first:
+      213: -6875924493321365461
+    second: bowl_18
+  - first:
+      213: 8149488137714883402
+    second: bowl_19
+  - first:
+      213: -174488370868375276
+    second: bowl_20
+  - first:
+      213: -3730256359498748285
+    second: bowl_21
+  - first:
+      213: -1776431142064054689
+    second: bowl_22
+  - first:
+      213: 2936107217825926877
+    second: bowl_23
+  - first:
+      213: -969643246888616962
+    second: bowl_24
+  - first:
+      213: 6753793692937337549
+    second: bowl_25
+  - first:
+      213: -5889844197950099200
+    second: bowl_26
+  - first:
+      213: 3445950174314703482
+    second: bowl_27
+  - first:
+      213: -1312845020111316232
+    second: bowl_28
+  - first:
+      213: -4221749879568046016
+    second: bowl_29
+  - first:
+      213: -2966099297121967359
+    second: bowl_30
+  - first:
+      213: 5526780039452477204
+    second: bowl_31
+  - first:
+      213: -3854936012112444721
+    second: bowl_32
+  - first:
+      213: 1069172148320906113
+    second: bowl_33
+  - first:
+      213: 6754506982620615241
+    second: bowl_34
+  - first:
+      213: 4402776327573589098
+    second: bowl_35
+  - first:
+      213: 2427109142453270041
+    second: bowl_36
+  - first:
+      213: -7553947033108569357
+    second: bowl_37
+  - first:
+      213: 6953410822970080454
+    second: bowl_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bowl_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f529a4863d052c300800000000000000
+      internalID: 270867796513690207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 422
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e50c309ff05820800000000000000
+      internalID: 2905102754601363371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 64
+        width: 916
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c977108823e0680800000000000000
+      internalID: -8787030263231701926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536b984884effbfa0800000000000000
+      internalID: -5782623809105709515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24503dd8857522f0800000000000000
+      internalID: -998262511705762774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbb561bb5ad3a1b0800000000000000
+      internalID: -5646429420439356451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c586a838827e5b0e0800000000000000
+      internalID: -2254641877237471140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d611f4838ca3c10800000000000000
+      internalID: 2034158325881466116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf3f744a669ef30800000000000000
+      internalID: 4605324949730884492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6739c783b4d554a10800000000000000
+      internalID: 1893021796030780278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd213b3cfa65f4b0800000000000000
+      internalID: -5407298146031030839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800ee1cc4d9a6bb90800000000000000
+      internalID: -7226401820646645752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2685d0d5b82703480800000000000000
+      internalID: -8921504918933776286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd39aef6b8756efb0800000000000000
+      internalID: -4618908111432150053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac63662eab841f20800000000000000
+      internalID: 3392489999401446565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbc41e99881c1920800000000000000
+      internalID: 2962269634244692942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe816be1616515d70800000000000000
+      internalID: 9030093380859074799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_17
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7637adb65fa92b0800000000000000
+      internalID: -5576875344969635885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_18
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281c218a1fc390a0800000000000000
+      internalID: -6875924493321365461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b51cd884cc81170800000000000000
+      internalID: 8149488137714883402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_20
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41134fc40c7149df0800000000000000
+      internalID: -174488370868375276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_21
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e6fe2da977b3cc0800000000000000
+      internalID: -3730256359498748285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_22
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 444
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e9459c949d857e0800000000000000
+      internalID: -1776431142064054689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_23
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 444
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde89fc55f52fb820800000000000000
+      internalID: 2936107217825926877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_24
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 426
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf856ba922b82f0800000000000000
+      internalID: -969643246888616962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_25
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 444
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcabdc1a49b4abd50800000000000000
+      internalID: 6753793692937337549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 333
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f9ce58e1134ea0800000000000000
+      internalID: -5889844197950099200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 288
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a29b51d6972df20800000000000000
+      internalID: 3445950174314703482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_28
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 182
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fadf13f866d7cde0800000000000000
+      internalID: -1312845020111316232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_29
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 199
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0486cc13ad45965c0800000000000000
+      internalID: -4221749879568046016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1036282876c46d6d0800000000000000
+      internalID: -2966099297121967359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c84be92113bc40800000000000000
+      internalID: 5526780039452477204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc24d2e0f14808ac0800000000000000
+      internalID: -3854936012112444721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba868776676de00800000000000000
+      internalID: 1069172148320906113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425ff35054dcbd50800000000000000
+      internalID: 6754506982620615241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc5863ebdc91d30800000000000000
+      internalID: 4402776327573589098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916b70bd7e2dea120800000000000000
+      internalID: 2427109142453270041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a277223dfa2790800000000000000
+      internalID: -7553947033108569357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowl_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccfc708d4a7f7060800000000000000
+      internalID: 6953410822970080454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bowl_0: 270867796513690207
+      bowl_1: 2905102754601363371
+      bowl_10: -5407298146031030839
+      bowl_11: -7226401820646645752
+      bowl_12: -8921504918933776286
+      bowl_13: -4618908111432150053
+      bowl_14: 3392489999401446565
+      bowl_15: 2962269634244692942
+      bowl_16: 9030093380859074799
+      bowl_17: -5576875344969635885
+      bowl_18: -6875924493321365461
+      bowl_19: 8149488137714883402
+      bowl_2: -8787030263231701926
+      bowl_20: -174488370868375276
+      bowl_21: -3730256359498748285
+      bowl_22: -1776431142064054689
+      bowl_23: 2936107217825926877
+      bowl_24: -969643246888616962
+      bowl_25: 6753793692937337549
+      bowl_26: -5889844197950099200
+      bowl_27: 3445950174314703482
+      bowl_28: -1312845020111316232
+      bowl_29: -4221749879568046016
+      bowl_3: -5782623809105709515
+      bowl_30: -2966099297121967359
+      bowl_31: 5526780039452477204
+      bowl_32: -3854936012112444721
+      bowl_33: 1069172148320906113
+      bowl_34: 6754506982620615241
+      bowl_35: 4402776327573589098
+      bowl_36: 2427109142453270041
+      bowl_37: -7553947033108569357
+      bowl_38: 6953410822970080454
+      bowl_4: -998262511705762774
+      bowl_5: -5646429420439356451
+      bowl_6: -2254641877237471140
+      bowl_7: 2034158325881466116
+      bowl_8: 4605324949730884492
+      bowl_9: 1893021796030780278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

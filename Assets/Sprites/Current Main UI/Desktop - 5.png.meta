@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 1d50662133f418e498f18535001c5306
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3470232027045427204
+    second: Desktop - 5_0
+  - first:
+      213: -301408275479717825
+    second: Desktop - 5_1
+  - first:
+      213: -5572187608173721546
+    second: Desktop - 5_2
+  - first:
+      213: -5303120105490319538
+    second: Desktop - 5_3
+  - first:
+      213: 8272655711598765856
+    second: Desktop - 5_4
+  - first:
+      213: -6863127105377499039
+    second: Desktop - 5_5
+  - first:
+      213: -2224146077591529769
+    second: Desktop - 5_6
+  - first:
+      213: -2407807788742852551
+    second: Desktop - 5_7
+  - first:
+      213: -4704200317341201695
+    second: Desktop - 5_8
+  - first:
+      213: -590734993599825655
+    second: Desktop - 5_9
+  - first:
+      213: 7429520736104907867
+    second: Desktop - 5_10
+  - first:
+      213: -4240288298644907023
+    second: Desktop - 5_11
+  - first:
+      213: 1528484972151436606
+    second: Desktop - 5_12
+  - first:
+      213: -4476574834556295538
+    second: Desktop - 5_13
+  - first:
+      213: -2181471232059265272
+    second: Desktop - 5_14
+  - first:
+      213: 4716487601009470222
+    second: Desktop - 5_15
+  - first:
+      213: -7795712351729043283
+    second: Desktop - 5_16
+  - first:
+      213: -2154106934298176641
+    second: Desktop - 5_17
+  - first:
+      213: 8421407149062758727
+    second: Desktop - 5_18
+  - first:
+      213: -931450588906695486
+    second: Desktop - 5_19
+  - first:
+      213: -6688631633847008807
+    second: Desktop - 5_20
+  - first:
+      213: 7165470988277045790
+    second: Desktop - 5_21
+  - first:
+      213: 7405636100068212220
+    second: Desktop - 5_22
+  - first:
+      213: 2674837324920785191
+    second: Desktop - 5_23
+  - first:
+      213: -3333559053028287777
+    second: Desktop - 5_24
+  - first:
+      213: -7281705408038997345
+    second: Desktop - 5_25
+  - first:
+      213: 3382403038680519883
+    second: Desktop - 5_26
+  - first:
+      213: 8310771857602189346
+    second: Desktop - 5_27
+  - first:
+      213: -537977033476050802
+    second: Desktop - 5_28
+  - first:
+      213: -6808902974616655815
+    second: Desktop - 5_29
+  - first:
+      213: -122718029248328013
+    second: Desktop - 5_30
+  - first:
+      213: -8833630056184610856
+    second: Desktop - 5_31
+  - first:
+      213: 904994297272156652
+    second: Desktop - 5_32
+  - first:
+      213: 6862924900386530744
+    second: Desktop - 5_33
+  - first:
+      213: 3774339057844354479
+    second: Desktop - 5_34
+  - first:
+      213: -7757616517118706903
+    second: Desktop - 5_35
+  - first:
+      213: -4003510037786172394
+    second: Desktop - 5_36
+  - first:
+      213: 7053630659465042806
+    second: Desktop - 5_37
+  - first:
+      213: 6159640670930321909
+    second: Desktop - 5_38
+  - first:
+      213: -2948828353928161671
+    second: Desktop - 5_39
+  - first:
+      213: -5085508084551475255
+    second: Desktop - 5_40
+  - first:
+      213: 338255171808173163
+    second: Desktop - 5_41
+  - first:
+      213: 3437583025325210292
+    second: Desktop - 5_42
+  - first:
+      213: 3483686778997094267
+    second: Desktop - 5_43
+  - first:
+      213: 8596221054334961172
+    second: Desktop - 5_44
+  - first:
+      213: -3132502888816492823
+    second: Desktop - 5_45
+  - first:
+      213: -4447123997482437765
+    second: Desktop - 5_46
+  - first:
+      213: 5291967847988425606
+    second: Desktop - 5_47
+  - first:
+      213: 3754710640276807579
+    second: Desktop - 5_48
+  - first:
+      213: -2908455822767580815
+    second: Desktop - 5_49
+  - first:
+      213: 8312734034751148096
+    second: Desktop - 5_50
+  - first:
+      213: -7432361828507247007
+    second: Desktop - 5_51
+  - first:
+      213: 1609248929112394985
+    second: Desktop - 5_52
+  - first:
+      213: 4637013645073449123
+    second: Desktop - 5_53
+  - first:
+      213: -1691101615064693067
+    second: Desktop - 5_54
+  - first:
+      213: -7789921995054548568
+    second: Desktop - 5_55
+  - first:
+      213: 427037321126919129
+    second: Desktop - 5_56
+  - first:
+      213: 5927834724239436896
+    second: Desktop - 5_57
+  - first:
+      213: -6247765501711612333
+    second: Desktop - 5_58
+  - first:
+      213: 7022003001787723481
+    second: Desktop - 5_59
+  - first:
+      213: -3918006038485589906
+    second: Desktop - 5_60
+  - first:
+      213: -5532195008574069069
+    second: Desktop - 5_61
+  - first:
+      213: 3921236349888505551
+    second: Desktop - 5_62
+  - first:
+      213: -6709760757428366807
+    second: Desktop - 5_63
+  - first:
+      213: -4760438769900901049
+    second: Desktop - 5_64
+  - first:
+      213: -4351547341407030960
+    second: Desktop - 5_65
+  - first:
+      213: 3965047428613899186
+    second: Desktop - 5_66
+  - first:
+      213: 2067362837701677868
+    second: Desktop - 5_67
+  - first:
+      213: -8452337643225457432
+    second: Desktop - 5_68
+  - first:
+      213: -1001344937332628002
+    second: Desktop - 5_69
+  - first:
+      213: -6836608780784640273
+    second: Desktop - 5_70
+  - first:
+      213: -8069703871851603279
+    second: Desktop - 5_71
+  - first:
+      213: -3683638187033156963
+    second: Desktop - 5_72
+  - first:
+      213: 5578652041798135329
+    second: Desktop - 5_73
+  - first:
+      213: -5074524558545809781
+    second: Desktop - 5_74
+  - first:
+      213: 8199858778089401915
+    second: Desktop - 5_75
+  - first:
+      213: -8467781526960348216
+    second: Desktop - 5_76
+  - first:
+      213: -7063995787699719957
+    second: Desktop - 5_77
+  - first:
+      213: 4958964959313677545
+    second: Desktop - 5_78
+  - first:
+      213: -3818539743431463555
+    second: Desktop - 5_79
+  - first:
+      213: 7943915674178539851
+    second: Desktop - 5_80
+  - first:
+      213: 862916499977756783
+    second: Desktop - 5_81
+  - first:
+      213: -2813579421860393323
+    second: Desktop - 5_82
+  - first:
+      213: 7780545178673012097
+    second: Desktop - 5_83
+  - first:
+      213: 666412155894311642
+    second: Desktop - 5_84
+  - first:
+      213: 5747238622081570952
+    second: Desktop - 5_85
+  - first:
+      213: -7865977476072518830
+    second: Desktop - 5_86
+  - first:
+      213: 8484237084700581585
+    second: Desktop - 5_87
+  - first:
+      213: -6309805712023633131
+    second: Desktop - 5_88
+  - first:
+      213: -132790100000881098
+    second: Desktop - 5_89
+  - first:
+      213: 7312871222902588852
+    second: Desktop - 5_90
+  - first:
+      213: 5614735362654415412
+    second: Desktop - 5_91
+  - first:
+      213: -3340616629155432869
+    second: Desktop - 5_92
+  - first:
+      213: -8352699835355785315
+    second: Desktop - 5_93
+  - first:
+      213: 5957792713375688106
+    second: Desktop - 5_94
+  - first:
+      213: -8544023556808406493
+    second: Desktop - 5_95
+  - first:
+      213: 3838755790248534737
+    second: Desktop - 5_96
+  - first:
+      213: -510966172593536908
+    second: Desktop - 5_97
+  - first:
+      213: -4894815619341174928
+    second: Desktop - 5_98
+  - first:
+      213: -1378408097014938711
+    second: Desktop - 5_99
+  - first:
+      213: 7638107771472850752
+    second: Desktop - 5_100
+  - first:
+      213: -2470054304195707863
+    second: Desktop - 5_101
+  - first:
+      213: -506808794710364055
+    second: Desktop - 5_102
+  - first:
+      213: 8073439092664023665
+    second: Desktop - 5_103
+  - first:
+      213: 7095924305196845484
+    second: Desktop - 5_104
+  - first:
+      213: 8181760089652924456
+    second: Desktop - 5_105
+  - first:
+      213: 5248049761793427664
+    second: Desktop - 5_106
+  - first:
+      213: -1674723721026908370
+    second: Desktop - 5_107
+  - first:
+      213: 8197931780870974700
+    second: Desktop - 5_108
+  - first:
+      213: -2251521829295206815
+    second: Desktop - 5_109
+  - first:
+      213: -7723504005641550925
+    second: Desktop - 5_110
+  - first:
+      213: -4861641272635876357
+    second: Desktop - 5_111
+  - first:
+      213: 7510966417513496069
+    second: Desktop - 5_112
+  - first:
+      213: -8219160176670439900
+    second: Desktop - 5_113
+  - first:
+      213: 3878409018670678261
+    second: Desktop - 5_114
+  - first:
+      213: 7834241469663682715
+    second: Desktop - 5_115
+  - first:
+      213: -8081399420042128214
+    second: Desktop - 5_116
+  - first:
+      213: -1892068297455016015
+    second: Desktop - 5_117
+  - first:
+      213: -8197888901338272270
+    second: Desktop - 5_118
+  - first:
+      213: -4166868364349628657
+    second: Desktop - 5_119
+  - first:
+      213: 7293468693688426330
+    second: Desktop - 5_120
+  - first:
+      213: 5862329949521793816
+    second: Desktop - 5_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 45
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desktop - 5_0
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 941
+        width: 928
+        height: 2135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f21f5030562174bacfeb28d3140037
+      internalID: -1189109488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae328036110fffc4bb0abd6370351b62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Desktop - 5_0: -1189109488
+      Desktop - 5_1: -1496365204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

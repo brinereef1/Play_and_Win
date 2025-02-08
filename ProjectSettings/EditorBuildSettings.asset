@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Thunder Ball.unity
+    guid: 37da2fb909886064caaeeb7a5bb0d25b
+  - enabled: 1
+    path: Assets/Scenes/Power Ball.unity
+    guid: d42f3bd64e1b6e6498303d9e0d0116ea
+  - enabled: 1
+    path: Assets/Scenes/Lucky 7.unity
+    guid: e17016282e6c2574897b748e62ad0ab5
+  - enabled: 1
+    path: Assets/Scenes/Poker Slots.unity
+    guid: b2d6c4379f5d3f44c91546bd718e8606
+  - enabled: 1
+    path: Assets/Scenes/Super Roulette.unity
+    guid: 16e90a7d24ce9d542954fb0971767326
+  - enabled: 1
+    path: Assets/Scenes/SpinTheWheel.unity
+    guid: df22a66d441239843855a4e15870ced7
+  - enabled: 1
+    path: Assets/Scenes/Koyel.unity
+    guid: 0257db0517d772f4f8e257a61d539d98
+  - enabled: 1
+    path: Assets/Scenes/Jhandi Munda.unity
+    guid: 769154ad1aae737498fa6c7e4e52398e
+  - enabled: 1
+    path: Assets/Scenes/FataFat.unity
+    guid: 04fbed12f4428924f8fedb4a4b305d9f
+  - enabled: 1
+    path: Assets/Scenes/LuckyLotto.unity
+    guid: 44e8ccef44a6ff14787c3db83d872fa7
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 57ebb3b63f50fd2448d6a61250ea2b15, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ae9c1dd4894186c4e923cfd77a2670a1, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: cbc3d949fc7d8e648837348f14b0e644, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 2268e2f2018ff144799bc0486819559d, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: abfc50568cd094ab2a57f0b3510d3384, type: 3}
+  m_UseUCBPForAssetBundles: 0

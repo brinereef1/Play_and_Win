@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: ab4484fc13044bf4eb1dba2ea96d8728
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3590808765648458187
+    second: Jackpot-removebg-preview_0
+  - first:
+      213: 6202989248370288549
+    second: Jackpot-removebg-preview_1
+  - first:
+      213: -7249016866461651721
+    second: Jackpot-removebg-preview_2
+  - first:
+      213: -2944509765503921423
+    second: Jackpot-removebg-preview_3
+  - first:
+      213: 7634994101479407453
+    second: Jackpot-removebg-preview_4
+  - first:
+      213: 3104065115788358991
+    second: Jackpot-removebg-preview_5
+  - first:
+      213: 2378202882372708866
+    second: Jackpot-removebg-preview_6
+  - first:
+      213: 1360832941859974847
+    second: Jackpot-removebg-preview_7
+  - first:
+      213: -5738949920686872412
+    second: Jackpot-removebg-preview_8
+  - first:
+      213: -5142870788835091216
+    second: Jackpot-removebg-preview_9
+  - first:
+      213: 3672725910761738782
+    second: Jackpot-removebg-preview_10
+  - first:
+      213: -6715843716123771392
+    second: Jackpot-removebg-preview_11
+  - first:
+      213: 4350432192187333435
+    second: Jackpot-removebg-preview_12
+  - first:
+      213: -432216353835856942
+    second: Jackpot-removebg-preview_13
+  - first:
+      213: -7915946374887139334
+    second: Jackpot-removebg-preview_14
+  - first:
+      213: 5379299804790114739
+    second: Jackpot-removebg-preview_15
+  - first:
+      213: -2356676638559454673
+    second: Jackpot-removebg-preview_16
+  - first:
+      213: -2179115208497509242
+    second: Jackpot-removebg-preview_17
+  - first:
+      213: -4563917939847817130
+    second: Jackpot-removebg-preview_18
+  - first:
+      213: 3296178449861745680
+    second: Jackpot-removebg-preview_19
+  - first:
+      213: 6632254612479739832
+    second: Jackpot-removebg-preview_20
+  - first:
+      213: -915441687417155296
+    second: Jackpot-removebg-preview_21
+  - first:
+      213: -8889711951317247682
+    second: Jackpot-removebg-preview_22
+  - first:
+      213: -9154479055495771972
+    second: Jackpot-removebg-preview_23
+  - first:
+      213: 1633904453305914050
+    second: Jackpot-removebg-preview_24
+  - first:
+      213: 1727148395165947602
+    second: Jackpot-removebg-preview_25
+  - first:
+      213: 4449225953055363482
+    second: Jackpot-removebg-preview_26
+  - first:
+      213: 945783089767395565
+    second: Jackpot-removebg-preview_27
+  - first:
+      213: -1977460186860391221
+    second: Jackpot-removebg-preview_28
+  - first:
+      213: 1883790093636902391
+    second: Jackpot-removebg-preview_29
+  - first:
+      213: 4089211756993025828
+    second: Jackpot-removebg-preview_30
+  - first:
+      213: -9090554144502981389
+    second: Jackpot-removebg-preview_31
+  - first:
+      213: 4372906369158005242
+    second: Jackpot-removebg-preview_32
+  - first:
+      213: -5081033537441035169
+    second: Jackpot-removebg-preview_33
+  - first:
+      213: 9107182124259557432
+    second: Jackpot-removebg-preview_34
+  - first:
+      213: -7787012140977080302
+    second: Jackpot-removebg-preview_35
+  - first:
+      213: 2544423055183634401
+    second: Jackpot-removebg-preview_36
+  - first:
+      213: -5824127947219892561
+    second: Jackpot-removebg-preview_37
+  - first:
+      213: 639286269963671466
+    second: Jackpot-removebg-preview_38
+  - first:
+      213: 4300218748242281843
+    second: Jackpot-removebg-preview_39
+  - first:
+      213: 2051380173536784770
+    second: Jackpot-removebg-preview_40
+  - first:
+      213: 7486535189955850110
+    second: Jackpot-removebg-preview_41
+  - first:
+      213: -692090030417300420
+    second: Jackpot-removebg-preview_42
+  - first:
+      213: 5362927693463450242
+    second: Jackpot-removebg-preview_43
+  - first:
+      213: -5476506821316730578
+    second: Jackpot-removebg-preview_44
+  - first:
+      213: 7515110289979130208
+    second: Jackpot-removebg-preview_45
+  - first:
+      213: 1135795599123809186
+    second: Jackpot-removebg-preview_46
+  - first:
+      213: 8174412967300017278
+    second: Jackpot-removebg-preview_47
+  - first:
+      213: 6360989498823731711
+    second: Jackpot-removebg-preview_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 45
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 325
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e2a2bd372ea2ec0800000000000000
+      internalID: -3590808765648458187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 289
+        width: 238
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7ada64bd1751650800000000000000
+      internalID: 6202989248370288549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 440
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcecbf1191566b90800000000000000
+      internalID: -7249016866461651721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 395
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2587d08fff227d0800000000000000
+      internalID: -2944509765503921423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 440
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ff1e0fea2f4f960800000000000000
+      internalID: 7634994101479407453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f453f3ad6cad31b20800000000000000
+      internalID: 3104065115788358991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 415
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aa2a7dbe2110120800000000000000
+      internalID: 2378202882372708866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 405
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbea632c956a2e210800000000000000
+      internalID: 1360832941859974847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 404
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8e3b114772b50b0800000000000000
+      internalID: -5738949920686872412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 415
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc50c1044ad0a8b0800000000000000
+      internalID: -5142870788835091216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 392
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e129354c1c428f230800000000000000
+      internalID: 3672725910761738782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 172
+        width: 413
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3765e8b78cc2a0800000000000000
+      internalID: -6715843716123771392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 353
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bffba7707df5c30800000000000000
+      internalID: 4350432192187333435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 290
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbcf732485700af0800000000000000
+      internalID: -432216353835856942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 277
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af79fc766b8e42290800000000000000
+      internalID: -7915946374887139334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 145
+        width: 181
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9c7d4fbac17aa40800000000000000
+      internalID: 5379299804790114739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 204
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab33c55176b4fd0800000000000000
+      internalID: -2356676638559454673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 167
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ccad8634a32c1e0800000000000000
+      internalID: -2179115208497509242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658965b70d4b9a0c0800000000000000
+      internalID: -4563917939847817130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c9e4416d06ebd20800000000000000
+      internalID: 3296178449861745680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 56
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70dcc4e608a0c50800000000000000
+      internalID: 6632254612479739832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 101
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0219ae0b2a2bb43f0800000000000000
+      internalID: -915441687417155296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 169
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39d03a741661a480800000000000000
+      internalID: -8889711951317247682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 143
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8cb613dc1c4f080800000000000000
+      internalID: -9154479055495771972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25a38817bcca610800000000000000
+      internalID: 1633904453305914050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 114
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d69048805018f710800000000000000
+      internalID: 1727148395165947602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 110
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9150596e63debd30800000000000000
+      internalID: 4449225953055363482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 94
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0382c85b8102d00800000000000000
+      internalID: 945783089767395565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 87
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc475b4ef66ae84e0800000000000000
+      internalID: -1977460186860391221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 140
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd90a20c11942a10800000000000000
+      internalID: 1883790093636902391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 113
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4279bea6d6ccfb830800000000000000
+      internalID: 4089211756993025828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcd17d5b2dd7d180800000000000000
+      internalID: -9090554144502981389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 55
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1c4b19c2fafac30800000000000000
+      internalID: 4372906369158005242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c0bfc0bea8c79b0800000000000000
+      internalID: -5081033537441035169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830474dd3e5336e70800000000000000
+      internalID: 9107182124259557432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 82
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218386317b9fee390800000000000000
+      internalID: -7787012140977080302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 55
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efd88aa94b9f4320800000000000000
+      internalID: 2544423055183634401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 82
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa688835d7a8c2fa0800000000000000
+      internalID: -5824127947219892561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 107
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa718f6b9733fd800800000000000000
+      internalID: 639286269963671466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c4710b227dab30800000000000000
+      internalID: 4300218748242281843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28170fe2667f77c10800000000000000
+      internalID: 2051380173536784770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 55
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fa7c3071485e760800000000000000
+      internalID: 7486535189955850110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 55
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c343360c8c33566f0800000000000000
+      internalID: -692090030417300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2827efcb252fc6a40800000000000000
+      internalID: 5362927693463450242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21a961df0a8ff3b0800000000000000
+      internalID: -5476506821316730578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c612fdf80b4860800000000000000
+      internalID: 7515110289979130208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30a37641823cf00800000000000000
+      internalID: 1135795599123809186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 55
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ca34ba849517170800000000000000
+      internalID: 8174412967300017278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e0694f36c64850800000000000000
+      internalID: 6360989498823731711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jackpot-removebg-preview_0: -3590808765648458187
+      Jackpot-removebg-preview_1: 6202989248370288549
+      Jackpot-removebg-preview_10: 3672725910761738782
+      Jackpot-removebg-preview_11: -6715843716123771392
+      Jackpot-removebg-preview_12: 4350432192187333435
+      Jackpot-removebg-preview_13: -432216353835856942
+      Jackpot-removebg-preview_14: -7915946374887139334
+      Jackpot-removebg-preview_15: 5379299804790114739
+      Jackpot-removebg-preview_16: -2356676638559454673
+      Jackpot-removebg-preview_17: -2179115208497509242
+      Jackpot-removebg-preview_18: -4563917939847817130
+      Jackpot-removebg-preview_19: 3296178449861745680
+      Jackpot-removebg-preview_2: -7249016866461651721
+      Jackpot-removebg-preview_20: 6632254612479739832
+      Jackpot-removebg-preview_21: -915441687417155296
+      Jackpot-removebg-preview_22: -8889711951317247682
+      Jackpot-removebg-preview_23: -9154479055495771972
+      Jackpot-removebg-preview_24: 1633904453305914050
+      Jackpot-removebg-preview_25: 1727148395165947602
+      Jackpot-removebg-preview_26: 4449225953055363482
+      Jackpot-removebg-preview_27: 945783089767395565
+      Jackpot-removebg-preview_28: -1977460186860391221
+      Jackpot-removebg-preview_29: 1883790093636902391
+      Jackpot-removebg-preview_3: -2944509765503921423
+      Jackpot-removebg-preview_30: 4089211756993025828
+      Jackpot-removebg-preview_31: -9090554144502981389
+      Jackpot-removebg-preview_32: 4372906369158005242
+      Jackpot-removebg-preview_33: -5081033537441035169
+      Jackpot-removebg-preview_34: 9107182124259557432
+      Jackpot-removebg-preview_35: -7787012140977080302
+      Jackpot-removebg-preview_36: 2544423055183634401
+      Jackpot-removebg-preview_37: -5824127947219892561
+      Jackpot-removebg-preview_38: 639286269963671466
+      Jackpot-removebg-preview_39: 4300218748242281843
+      Jackpot-removebg-preview_4: 7634994101479407453
+      Jackpot-removebg-preview_40: 2051380173536784770
+      Jackpot-removebg-preview_41: 7486535189955850110
+      Jackpot-removebg-preview_42: -692090030417300420
+      Jackpot-removebg-preview_43: 5362927693463450242
+      Jackpot-removebg-preview_44: -5476506821316730578
+      Jackpot-removebg-preview_45: 7515110289979130208
+      Jackpot-removebg-preview_46: 1135795599123809186
+      Jackpot-removebg-preview_47: 8174412967300017278
+      Jackpot-removebg-preview_48: 6360989498823731711
+      Jackpot-removebg-preview_5: 3104065115788358991
+      Jackpot-removebg-preview_6: 2378202882372708866
+      Jackpot-removebg-preview_7: 1360832941859974847
+      Jackpot-removebg-preview_8: -5738949920686872412
+      Jackpot-removebg-preview_9: -5142870788835091216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
