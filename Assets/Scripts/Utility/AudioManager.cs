@@ -5,6 +5,8 @@ using UnityEngine.EventSystems;
 
 public class AudioManager : MonoBehaviour
 {
+    public static AudioManager Instance { get; private set; }
+
     [Header("UI References")]
     public Toggle sfxToggle;
     public Toggle musicToggle;
@@ -18,16 +20,30 @@ public class AudioManager : MonoBehaviour
     private const string MUSIC_PREF = "Music_Toggle";
     private const string VOLUME_PREF = "Audio_Volume";
 
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+    }
+
     private void Start()
     {
         LoadSettings();
 
-        sfxToggle.onValueChanged.AddListener(delegate { ToggleSFX(sfxToggle.isOn); });
-        musicToggle.onValueChanged.AddListener(delegate { ToggleMusic(musicToggle.isOn); });
-        volumeSlider.onValueChanged.AddListener(delegate { SetVolume(volumeSlider.value); });
+        if (sfxToggle != null) sfxToggle.onValueChanged.AddListener(ToggleSFX);
+        if (musicToggle != null) musicToggle.onValueChanged.AddListener(ToggleMusic);
+        if (volumeSlider != null) volumeSlider.onValueChanged.AddListener(SetVolume);
     }
 
-    void Update()
+    private void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
@@ -50,18 +66,22 @@ public class AudioManager : MonoBehaviour
 
     private void LoadSettings()
     {
-        sfxToggle.isOn = PlayerPrefs.GetInt(SFX_PREF, 1) == 1;
-        musicToggle.isOn = PlayerPrefs.GetInt(MUSIC_PREF, 1) == 1;
-        volumeSlider.value = PlayerPrefs.GetFloat(VOLUME_PREF, 1f);
+        bool isSfxOn = PlayerPrefs.GetInt(SFX_PREF, 1) == 1;
+        bool isMusicOn = PlayerPrefs.GetInt(MUSIC_PREF, 1) == 1;
+        float volume = PlayerPrefs.GetFloat(VOLUME_PREF, 1f);
 
-        ToggleSFX(sfxToggle.isOn);
-        ToggleMusic(musicToggle.isOn);
-        SetVolume(volumeSlider.value);
+        if (sfxToggle != null) sfxToggle.isOn = isSfxOn;
+        if (musicToggle != null) musicToggle.isOn = isMusicOn;
+        if (volumeSlider != null) volumeSlider.value = volume;
+
+        ToggleSFX(isSfxOn);
+        ToggleMusic(isMusicOn);
+        SetVolume(volume);
     }
 
     public void ToggleSFX(bool isOn)
     {
-        if (sfxToggle != null)
+        if (sfxSource != null)
         {
             sfxSource.mute = !isOn;
             PlayerPrefs.SetInt(SFX_PREF, isOn ? 1 : 0);
@@ -71,7 +91,7 @@ public class AudioManager : MonoBehaviour
 
     public void ToggleMusic(bool isOn)
     {
-        if (musicToggle != null)
+        if (musicSource != null)
         {
             musicSource.mute = !isOn;
             PlayerPrefs.SetInt(MUSIC_PREF, isOn ? 1 : 0);
@@ -81,8 +101,8 @@ public class AudioManager : MonoBehaviour
 
     public void SetVolume(float volume)
     {
-        sfxSource.volume = volume;
-        musicSource.volume = volume;
+        if (sfxSource != null) sfxSource.volume = volume;
+        if (musicSource != null) musicSource.volume = volume;
         PlayerPrefs.SetFloat(VOLUME_PREF, volume);
         PlayerPrefs.Save();
     }
