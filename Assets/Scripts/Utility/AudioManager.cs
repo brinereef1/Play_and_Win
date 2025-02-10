@@ -84,6 +84,7 @@ public class AudioManager : MonoBehaviour
         if (sfxSource != null)
         {
             sfxSource.mute = !isOn;
+            if (!isOn) sfxSource.Stop();
             PlayerPrefs.SetInt(SFX_PREF, isOn ? 1 : 0);
             PlayerPrefs.Save();
         }
@@ -94,6 +95,8 @@ public class AudioManager : MonoBehaviour
         if (musicSource != null)
         {
             musicSource.mute = !isOn;
+            if (!isOn) musicSource.Stop();
+            else if (!musicSource.isPlaying) musicSource.Play();
             PlayerPrefs.SetInt(MUSIC_PREF, isOn ? 1 : 0);
             PlayerPrefs.Save();
         }
