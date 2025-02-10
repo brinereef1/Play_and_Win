@@ -3158,6 +3158,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
+    - target: {fileID: 818101203661321018, guid: 85e7b053178809149886c2c5ab82e155, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5218810533708458817, guid: 85e7b053178809149886c2c5ab82e155, type: 3}
       propertyPath: sfxToggle
       value: 
